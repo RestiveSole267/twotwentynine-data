@@ -1,2 +1,2 @@
 # twotwentynine-data
-temporary repository for TwoTwentyNine. Tribute to FiveThirtyEight.
+Temporary data hub repository for TwoTwentyNine. Tribute to FiveThirtyEight.
